@@ -1,0 +1,10 @@
+# Sensitive environment files
+.env
+
+# OS / IDE generated files
+.DS_Store
+.idea/
+.vscode/
+
+# Docker persistent local volume directories (if mapped locally)
+pgdata/
